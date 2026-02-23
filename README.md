@@ -57,3 +57,13 @@ pip install -r requirements.txt
     bash scripts/train.sh
     ```
 
+## Citation
+```Text
+@article{zhang2026geometric,
+  title={Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers},
+  author={Zhang, Shuo and Wu, Wenzhuo and Zhang, Huayu and Cheng, Jiarong and Zang, Xianghao and Ban, Chao and Sun, Hao and He, Zhongjiang and Cao, Tianwei and Liang, Kongming and others},
+  journal={arXiv preprint arXiv:2602.08388},
+  year={2026}
+}
+```
+
